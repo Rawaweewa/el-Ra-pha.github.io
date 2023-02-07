@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: 'Ubuntu Mono', monospace;
+  line-height: 1.5;
+  background-color: #00787F;
+}
+h1, h3 {
+  text-align: center;
+}
+table {
+  margin: 0 auto;
+  text-align: left;
+  background-color: #C0C0C0;
+}
+tr {
+  white-space:nowrap;
+}
+td {
+  padding: 0 0.5em;
+}
+.table-head{
+  background-color: #030081;
+  color: #ffffff;
+  line-height: 1.8;
+  font-weight: bold; 
+}
+.table-nav {
+  line-height: 1.8;
+}
+.table-content{
+  background-color: #ffffff;
+}
